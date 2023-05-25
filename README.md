@@ -6,7 +6,7 @@
   </a>
     &#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbulutdora&show_icons=true&theme=dark&layout=compact" alt="Top Langs" style="margin-left: 1000px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbulutdora&show_icons=true&theme=dark&layout=compact&langs_count=8" alt="Top Langs" style="margin-left: 1000px" />
   </a>
 </p>
 
