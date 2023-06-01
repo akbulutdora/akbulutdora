@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=akbulutdora&theme=dark" alt="Anurag's GitHub stats" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akbulutdora&theme=dark" alt="Anurag's GitHub stats" />
   </a>
     &#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;&#x200A;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbulutdora&show_icons=true&theme=dark&layout=compact&langs_count=8" alt="Top Langs" style="margin-left: 1000px" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akbulutdora&show_icons=true&theme=dark&layout=compact&langs_count=8" alt="Top Langs" style="margin-left: 1000px" />
   </a>
 </p>
 
