@@ -23,12 +23,14 @@ My graduation project was on collecting cyber security related data and classify
 Reading, thinking and discussing about open science is how my interest in open-source started.
 
 ## Work
-I have been developing the mobile app of [upcarta](https://www.upcarta.com/) for over a year now. We use Flutter.
+I developed the mobile app of [upcarta](https://www.upcarta.com/) for over a year. We used Flutter.
 
-Right now, I am using Laravel to build and maintain freelance websites as well as an anti-phishing firm in Turkey.
+Now I am at Net Koruma, an anti-phishing and cyber security consultant company. We use Laravel for our app to catch online phishing attempts and more.
 
 ## Interests
-**Programming languages:** Rust, Go and Elixir are very tempting all the time.
+**Game dev:** I want to make my own game using Odin and Raylib. I can never spare the time.
+
+**Music:** I am an avid music listener. These days I enjoy post-brexit British post/dance punk.
 
 **Natural languages:** I am conversational in Persian, in the process of forgetting Swedish and German. I will start learning a new one once I am satisfied with my Persian.
 
