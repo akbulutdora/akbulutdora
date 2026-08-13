@@ -7,7 +7,7 @@ Most of what I have shipped is closed source, so this profile is a poor sample o
 work itself:
 
 - **ooba** (2026). Consumer social product. The only technical person on it: Postgres schema,
-  Laravel 12 API, React Native app, design, and the App Store release. A release every week
+  Laravel API, React Native app, design, and the App Store release. A release every week
   for 7 months.
 - **meti-bills** (2025 to 2026). Peppol e-invoicing for Belgium, across three surfaces: a Go
   backend on PostgreSQL, a React web app, and a React Native app. 134 users, 12,300 documents
