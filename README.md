@@ -10,8 +10,9 @@ work itself:
   Laravel API, React Native app, design, and the App Store release. A release every week
   for 7 months.
 - **meti-bills** (2025 to 2026). Peppol e-invoicing for Belgium, across three surfaces: a Go
-  backend on PostgreSQL, a React web app, and a React Native app. 134 users, 12,300 documents
-  processed, and payment reconciliation through the Ponto open-banking API.
+  backend on PostgreSQL, a React web app, and a React Native app. 133 businesses, 12,300 documents
+  processed, and payment reconciliation through the Ponto open-banking API. It took over the
+  manual invoicing at the client's own accounting firm.
 - **meti-box** (2023 to 2024). A shared workspace where an accountant and a client exchange
   documents. Laravel and Flutter, and a lot of PDF handling.
 - **Net Koruma** (2023 to 2025). Anti-phishing for banks, the interbank card centre, and a
