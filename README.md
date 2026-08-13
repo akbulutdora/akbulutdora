@@ -6,18 +6,17 @@ usually the design as well.
 Most of what I have shipped is closed source, so this profile is a poor sample of it. The
 work itself:
 
-- **ooba** (2026). Consumer social product. The only technical person on it: Postgres schema,
-  Laravel API, React Native app, design, and the App Store release. A release every week
-  for 7 months.
+- **ooba** (2026). Consumer social product. The only technical person on it: PostgreSQL
+  schema, Laravel API, React Native app, design, and the App Store release.
 - **meti-bills** (2025 to 2026). Peppol e-invoicing for Belgium, with a Go backend on PostgreSQL, a React web app, and a React Native app. 133 businesses, 12,300 documents
   processed, and payment reconciliation through the Ponto open-banking API. It took over the
   manual invoicing at the client's own accounting firm.
-- **meti-box** (2023 to 2024). A shared workspace where an accountant and a client exchange
+- **meti-box** (2023). A shared workspace where an accountant and a client exchange
   documents. Laravel and Flutter, and a lot of PDF handling.
 - **Net Koruma** (2023 to 2025). Anti-phishing for banks, the interbank card centre, and a
   global crypto exchange. Certificate Transparency monitoring, an Android automation that
   reads Instagram ads with OCR, and the automated customer reporting.
-- **Upcarta** (2022 to 2024). Social recommendation platform. Built the Flutter app and
+- **Upcarta** (2022 to 2023). Social recommendation platform. Built the Flutter app and
   shipped it to the App Store.
 
 I write at [akbulutdora.github.io](https://akbulutdora.github.io): two papers on philosophy of
